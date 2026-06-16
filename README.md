@@ -46,7 +46,7 @@ It includes **JWT authentication, CRUD operations, and protected routes**.
 
 ## 📁 Project Structure
 
-
+```text
 Task_Manager/
 │
 ├── backend/
@@ -64,7 +64,7 @@ Task_Manager/
 │ │ └── index.js
 │
 └── README.md
-
+```
 
 ---
 
