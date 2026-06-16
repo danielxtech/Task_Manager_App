@@ -72,5 +72,5 @@ Task_Manager/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/danielxtech/Task_Manager.git
+git clone https://github.com/danielxtech/Task_Manager_App.git
 cd Task_Manager
