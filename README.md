@@ -44,30 +44,6 @@ It includes **JWT authentication, CRUD operations, and protected routes**.
 
 ---
 
-## 📁 Project Structure
-
-```text
-Task_Manager/
-│
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ ├── server.js
-│ └── .env
-│
-├── frontend/
-│ ├── src/
-│ │ ├── pages/
-│ │ ├── api.js
-│ │ ├── App.js
-│ │ └── index.js
-│
-└── README.md
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
